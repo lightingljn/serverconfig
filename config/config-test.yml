@@ -1,1 +1,2 @@
-config info for config dir test(master)
+config:
+  info: "config info for config dir master(test)"
